@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+ydata-profiling
+statsmodels
+imbalanced-learn
+scikit-learn
+xgboost
